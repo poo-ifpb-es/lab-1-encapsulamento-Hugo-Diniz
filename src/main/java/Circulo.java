@@ -1,7 +1,5 @@
 public class Circulo {
     private float raio;
-    private float area;
-    private float circuferencia;
     private float pi = 3.14159f;
 
 
